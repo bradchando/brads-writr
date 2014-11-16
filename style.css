@@ -14,14 +14,18 @@ Template: writr
 	background:#c76700 !important;
 }
 
-.site-branding, .widget, .widget-area input[type="text"], .widget-area input[type="url"], .widget-area input[type="email"], .widget-area input[type="password"], .widget-area input[type="search"], .widget-area textarea {
+.main-navigation:after, .site-branding, .widget, .widget-area input[type="text"], .widget-area input[type="url"], .widget-area input[type="email"], .widget-area input[type="password"], .widget-area input[type="search"], .widget-area textarea {
 
-	border-color: #303030 !important;
+	border-color: #95a5a6 !important;
+	border-width: 4px;
+}
+
+.page-title{
+
+	background:#303030;
 }
 
 #sidebar{
 
-	margin-top:-65px;
-	padding-top:48px;
-	padding-bottom:100px;
+	padding-top:14px;
 }

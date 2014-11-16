@@ -16,7 +16,7 @@ Template: writr
 
 .site-branding, .widget, .widget-area input[type="text"], .widget-area input[type="url"], .widget-area input[type="email"], .widget-area input[type="password"], .widget-area input[type="search"], .widget-area textarea {
 
-	border-color: #95a5a6 !important;
+	border-color: #303030 !important;
 }
 
 #sidebar{

@@ -22,10 +22,15 @@ Template: writr
 
 .page-title{
 
-	background:#303030;
+	background:#c76700;
 }
 
 #sidebar{
 
 	padding-top:14px;
+}
+
+.entry-title a{
+
+	color: #c76700;
 }

@@ -30,7 +30,17 @@ Template: writr
 	padding-top:14px;
 }
 
-.entry-title a{
+h1.entry-title, .entry-title a, article a, article a:hover, article a:focus, article a:active{
 
-	color: #c76700;
+	color: #c76700 !important;
+}
+
+input[type="text"], input[type="email"], textarea{
+
+	border-color: #95a5a6;
+}
+
+li.date-meta{
+
+	display: none;
 }
